@@ -1,0 +1,12 @@
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" width="55.286" height="48.611" viewBox="0 0 55.286 48.611">
+  <rect id="Rectangle_4292" data-name="Rectangle 4292" width="50.644" height="4.2" transform="translate(2.331 33.821)" fill="#2cabe2"/>
+  <path id="Path_4086" data-name="Path 4086" d="M34.633,42.412V46.3H20.652V42.412h-2.3v6.2H36.939v-6.2Z" fill="#000b63"/>
+  <rect id="Rectangle_4293" data-name="Rectangle 4293" width="25.585" height="2.306" transform="translate(14.85 46.3)" fill="#000b63"/>
+  <g id="Group_5821" data-name="Group 5821">
+    <path id="Path_4087" data-name="Path 4087" d="M55.286,33.822H0V3.11A3.115,3.115,0,0,1,3.11,0H52.176a3.07,3.07,0,0,1,2.19.914,3.1,3.1,0,0,1,.91,2.2ZM2.306,31.511H52.975V3.11a.782.782,0,0,0-.236-.568.79.79,0,0,0-.563-.236H3.11a.8.8,0,0,0-.8.8Z" fill="#000b63"/>
+    <path id="Path_4088" data-name="Path 4088" d="M52.176,40.333H3.11A3.105,3.105,0,0,1,0,37.233V31.511H55.286v5.717a3.1,3.1,0,0,1-3.1,3.1h-.005M2.331,33.8v3.406a.8.8,0,0,0,.8.8H52.176a.8.8,0,0,0,.8-.8V33.822Z" fill="#000b63"/>
+    <path id="Path_4089" data-name="Path 4089" d="M26.231,24.2,20.35,9.618,34.936,15.5l-6.053,2.652Z" fill="none" stroke="#000b63" stroke-linejoin="bevel" stroke-width="2.31"/>
+    <line id="Line_9" data-name="Line 9" x2="4.177" y2="4.177" transform="translate(28.883 18.155)" fill="none" stroke="#000b63" stroke-miterlimit="10" stroke-width="2.31"/>
+    <rect id="Rectangle_4294" data-name="Rectangle 4294" width="6.192" height="6.396" transform="translate(40.435 8.288)" fill="#8347ad"/>
+  </g>
+</svg>
